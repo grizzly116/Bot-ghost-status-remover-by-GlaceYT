@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["bot roleplay"];
+const statusMessages = ["GTA, Roblox, Minecraft ...", "Leak gratuit", "Bot crée par  g_riz_zly", "FREE 🕊🇵🇸🕊" ];
 
 
 let currentIndex = 0;
