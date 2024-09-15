@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bot roleplay"];
+const statusMessages = ["Nexland gestion V0.1"];
 
 
 let currentIndex = 0;
